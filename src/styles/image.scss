@@ -1,0 +1,21 @@
+.image {
+  position: absolute;
+  box-sizing: border-box;
+  height: 500px;
+  width: 500px;
+}
+
+.canvas {
+  box-sizing: border-box;
+  width: 500px;
+}
+
+.attributes {
+  position: relative;
+  left: 600px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
