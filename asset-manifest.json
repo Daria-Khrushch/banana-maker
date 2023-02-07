@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/banana-maker/static/css/main.01ed3654.css",
-    "main.js": "/banana-maker/static/js/main.fe073f50.js",
+    "main.js": "/banana-maker/static/js/main.c1f0c419.js",
     "static/media/light_blue_rou_invert.png": "/banana-maker/static/media/light_blue_rou_invert.e531f87873134f86a87f.png",
     "static/media/bg.png": "/banana-maker/static/media/bg.676e83342f514e619567.png",
     "static/media/light_green_rou.png": "/banana-maker/static/media/light_green_rou.2e07ba9f59f4975600d7.png",
@@ -95,10 +95,10 @@
     "static/media/twitter-logo.svg": "/banana-maker/static/media/twitter-logo.28faa403c0264c07593e0243035ef73d.svg",
     "index.html": "/banana-maker/index.html",
     "main.01ed3654.css.map": "/banana-maker/static/css/main.01ed3654.css.map",
-    "main.fe073f50.js.map": "/banana-maker/static/js/main.fe073f50.js.map"
+    "main.c1f0c419.js.map": "/banana-maker/static/js/main.c1f0c419.js.map"
   },
   "entrypoints": [
     "static/css/main.01ed3654.css",
-    "static/js/main.fe073f50.js"
+    "static/js/main.c1f0c419.js"
   ]
 }
