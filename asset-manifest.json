@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/banana-maker/static/css/main.10580d89.css",
-    "main.js": "/banana-maker/static/js/main.7683565e.js",
+    "main.css": "/banana-maker/static/css/main.88d24358.css",
+    "main.js": "/banana-maker/static/js/main.691f3221.js",
     "static/media/light_blue_rou_invert.png": "/banana-maker/static/media/light_blue_rou_invert.e531f87873134f86a87f.png",
+    "static/media/bg.png": "/banana-maker/static/media/bg.676e83342f514e619567.png",
     "static/media/light_green_rou.png": "/banana-maker/static/media/light_green_rou.2e07ba9f59f4975600d7.png",
     "static/media/light_green_rou_invert.png": "/banana-maker/static/media/light_green_rou_invert.3d8c91790ff8bdfb0628.png",
     "static/media/light_yellow_rou_invert.png": "/banana-maker/static/media/light_yellow_rou_invert.bf85d4c48c778c99f5b5.png",
@@ -90,12 +91,14 @@
     "static/media/mouth_1.png": "/banana-maker/static/media/mouth_1.e50bcb44c5f5f7840d11.png",
     "static/media/mouth_3.png": "/banana-maker/static/media/mouth_3.829e6b25943f88f21618.png",
     "static/media/mouth_5.png": "/banana-maker/static/media/mouth_5.eb644966b7304489d0c5.png",
+    "static/media/style.css.map": "/banana-maker/static/media/style.css.a83f9e51d6256a1ff069.map",
+    "static/media/twitter-logo.svg": "/banana-maker/static/media/twitter-logo.28faa403c0264c07593e0243035ef73d.svg",
     "index.html": "/banana-maker/index.html",
-    "main.10580d89.css.map": "/banana-maker/static/css/main.10580d89.css.map",
-    "main.7683565e.js.map": "/banana-maker/static/js/main.7683565e.js.map"
+    "main.88d24358.css.map": "/banana-maker/static/css/main.88d24358.css.map",
+    "main.691f3221.js.map": "/banana-maker/static/js/main.691f3221.js.map"
   },
   "entrypoints": [
-    "static/css/main.10580d89.css",
-    "static/js/main.7683565e.js"
+    "static/css/main.88d24358.css",
+    "static/js/main.691f3221.js"
   ]
 }
