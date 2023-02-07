@@ -46,6 +46,9 @@ export default function Header() {
                       Whitepaper
                     </a>
                   </li>
+                  <li>
+                    <a href="#preview">Preview</a>
+                  </li>
                 </ul>
                 <div className="header-btn">
                   <a

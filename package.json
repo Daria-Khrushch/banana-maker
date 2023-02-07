@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
     "downloadjs": "^1.4.7",
+    "font-awesome": "^4.7.0",
     "gh-pages": "^5.0.0",
     "html2canvas": "^1.4.1",
     "merge-images": "^2.0.0",
